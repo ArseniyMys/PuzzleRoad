@@ -1,0 +1,54 @@
+.footer-component {
+	width: 100%;
+}
+.footer-wrapper {
+	width: 100%;
+}
+.footer-content {
+	display: flex;
+	flex-direction: row;
+}
+
+
+
+
+.left-side-footer-component {
+	width: 65%;
+	padding-left: 25%;
+
+	min-width: 300px;
+
+	color: white;
+}
+
+
+
+
+.right-side-footer-component {
+	width: 35%;
+
+	color: white;
+}
+.footer-component .social-media-box {
+	display: flex;
+	flex-direction: row;
+}
+
+
+
+
+.footer-component .title-wrapper {
+	margin: 15px 0;
+}
+
+
+
+
+@media only screen and (max-width: 1000px) { 
+
+	.left-side-footer-component {
+		width: 52%;
+		padding-left: 17%;
+	}
+
+}

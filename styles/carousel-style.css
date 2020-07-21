@@ -1,0 +1,11 @@
+.carousel {
+	width: 100%;
+	max-width: 900px;
+	height: 506px;
+
+	margin: auto;
+}
+
+.carousel-inner {
+	border-radius: 20px;
+}
