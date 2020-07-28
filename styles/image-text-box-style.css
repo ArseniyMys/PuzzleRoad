@@ -16,16 +16,33 @@
 	position: relative;
 	left: 155px;
 }
-.image-wrapper .image{
+.base-layout-segment-component-4 .image-wrapper .image{
 	height: 350px;
 	width: auto;
 
-	background-image: url(https://res.cloudinary.com/dvffmdox8/image/upload/v1595427601/puzzleroad/image-text-box-image1_wg4tdp.png);
-	background-size: 300px 300px;
+	background-image: url(https://res.cloudinary.com/dvffmdox8/image/upload/v1595934882/puzzleroad/road_c864pw.png);
+	background-size: 272px 272px;
 	background-repeat: no-repeat;
-	background-position: 20px 5px;
+	background-position: 32px 32px;
 }
+.base-layout-segment-component-5 .image-wrapper .image{
+	height: 350px;
+	width: auto;
 
+	background-image: url(https://res.cloudinary.com/dvffmdox8/image/upload/v1595934875/puzzleroad/automation_yhgpne.png);
+	background-size: 272px 272px;
+	background-repeat: no-repeat;
+	background-position: 32px 32px;
+}
+.base-layout-segment-component-7 .image-wrapper .image{
+	height: 350px;
+	width: auto;
+
+	background-image: url(https://res.cloudinary.com/dvffmdox8/image/upload/v1595934877/puzzleroad/choose-your-way_qcaymg.png);
+	background-size: 272px 272px;
+	background-repeat: no-repeat;
+	background-position: 32px 32px;
+}
 
 
 
